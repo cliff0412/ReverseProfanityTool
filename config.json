@@ -1,0 +1,17 @@
+{
+  "ethereum": {
+    "w3": "",
+    "etherscan_key": "",
+    "base_url": ""
+  },
+  "polygon": {
+    "w3": "",
+    "etherscan_key": "",
+    "base_url": ""
+  },
+  "arbitrum": {
+    "w3": "",
+    "etherscan_key": "",
+    "base_url": ""
+  }
+}
